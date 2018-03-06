@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: fe1f1f968bfc4754b9d6c86129708b05
+timeCreated: 1506012079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bacia
+    100002: BaseAnelarD
+    100004: BaseAnelarE
+    100006: BaseIndicadorD
+    100008: BaseIndicadorE
+    100010: BaseMedioD
+    100012: BaseMedioE
+    100014: BaseMindinhoD
+    100016: BaseMindinhoE
+    100018: BasePeD
+    100020: BasePeE
+    100022: BasePolegarD
+    100024: BasePolegarE
+    100026: //RootNode
+    100028: Cabeca
+    100030: CanelaD
+    100032: CanelaE
+    100034: ClavicolaD
+    100036: ClavicolaE
+    100038: Coluna
+    100040: CotoveloD
+    100042: CotoveloE
+    100044: CoxaD
+    100046: CoxaE
+    100048: JoelhoD
+    100050: JoelhoE
+    100052: MaoD
+    100054: MaoE
+    100056: MeioAnelarD
+    100058: MeioAnelarE
+    100060: MeioIndicadorD
+    100062: MeioIndicadorE
+    100064: MeioMedioD
+    100066: MeioMedioE
+    100068: MeioMindinhoD
+    100070: MeioMindinhoE
+    100072: MeioPolegarD
+    100074: MeioPolegarE
+    100076: OmbroD
+    100078: OmbroE
+    100080: PeD
+    100082: PeE
+    100084: Peito
+    100086: Pescoco
+    100088: polySurface52
+    100090: PontaAnelarD
+    100092: PontaAnelarE
+    100094: PontaIndicadorD
+    100096: PontaIndicadorE
+    100098: PontaMedioD
+    100100: PontaMedioE
+    100102: PontaMindinhoD
+    100104: PontaMindinhoE
+    100106: PontaPolegarD
+    100108: PontaPolegarE
+    400000: Bacia
+    400002: BaseAnelarD
+    400004: BaseAnelarE
+    400006: BaseIndicadorD
+    400008: BaseIndicadorE
+    400010: BaseMedioD
+    400012: BaseMedioE
+    400014: BaseMindinhoD
+    400016: BaseMindinhoE
+    400018: BasePeD
+    400020: BasePeE
+    400022: BasePolegarD
+    400024: BasePolegarE
+    400026: //RootNode
+    400028: Cabeca
+    400030: CanelaD
+    400032: CanelaE
+    400034: ClavicolaD
+    400036: ClavicolaE
+    400038: Coluna
+    400040: CotoveloD
+    400042: CotoveloE
+    400044: CoxaD
+    400046: CoxaE
+    400048: JoelhoD
+    400050: JoelhoE
+    400052: MaoD
+    400054: MaoE
+    400056: MeioAnelarD
+    400058: MeioAnelarE
+    400060: MeioIndicadorD
+    400062: MeioIndicadorE
+    400064: MeioMedioD
+    400066: MeioMedioE
+    400068: MeioMindinhoD
+    400070: MeioMindinhoE
+    400072: MeioPolegarD
+    400074: MeioPolegarE
+    400076: OmbroD
+    400078: OmbroE
+    400080: PeD
+    400082: PeE
+    400084: Peito
+    400086: Pescoco
+    400088: polySurface52
+    400090: PontaAnelarD
+    400092: PontaAnelarE
+    400094: PontaIndicadorD
+    400096: PontaIndicadorE
+    400098: PontaMedioD
+    400100: PontaMedioE
+    400102: PontaMindinhoD
+    400104: PontaMindinhoE
+    400106: PontaPolegarD
+    400108: PontaPolegarE
+    4300000: polySurface52
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface52
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

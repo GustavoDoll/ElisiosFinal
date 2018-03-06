@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="musicasJOGO_data" version="1.3.0" audacityversion="2.1.3" sel0="40.2074081123" sel1="40.2074081123" vpos="0" h="0.0000000000" zoom="29.0618086283" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="creation_time" value="2016-11-24T20:21:00.000000Z"/>
+		<tag name="TITLE" value="Ai Se Eu Te Pego - Video Oficial Assim voce me mata"/>
+		<tag name="major_brand" value="dash"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="comment" value="Audio of https://www.youtube.com/watch?v=hcm55lU9knw record by Yout.com on 2017-08-14 22:29:48.08637245 +0000 UTC"/>
+		<tag name="Software" value="Lavf57.71.100"/>
+		<tag name="ARTIST" value="Michel Teló"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="Matroda" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="457216">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008f3.au" len="262144" min="-1.0" max="0.999969" rms="0.400828"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000958.au" len="195072" min="-1.0" max="0.999969" rms="0.339477"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Matroda" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="457216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000df5.au" len="262144" min="-1.0" max="0.999969" rms="0.399856"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000e1f.au" len="195072" min="-1.0" max="0.999969" rms="0.339381"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Faixa de Áudio" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="8.91215420">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="550656">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009ce.au" len="262144" min="-0.738701" max="0.705719" rms="0.19378"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00006d9.au" len="262144" min="-0.725465" max="0.698401" rms="0.205238"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000569.au" len="26368" min="-0.174151" max="0.163326" rms="0.041206"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Faixa de Áudio" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="8.91215420">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="550656">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ddd.au" len="262144" min="-0.659914" max="0.672005" rms="0.184631"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000003.au" len="262144" min="-0.709544" max="0.68973" rms="0.196911"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00002d1.au" len="26368" min="-0.160811" max="0.178873" rms="0.036409"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Faixa de Áudio" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="20.98281179">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="491520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000087.au" len="262144" min="-1.0" max="0.999969" rms="0.185363"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000076a.au" len="229376" min="-0.965424" max="0.911957" rms="0.183431"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="10.777083535324" val="0.992957770824"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Faixa de Áudio" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="20.98281179">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="491520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e6a.au" len="262144" min="-0.92865" max="0.970734" rms="0.177328"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000676.au" len="229376" min="-0.919769" max="0.917816" rms="0.172141"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="10.777083535324" val="0.992957770824"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Ai Se Eu Te Pego - Video Oficial Assim voce me mata" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="31.50181406">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4174">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005fd.au" len="4174" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.094625850340" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="31.59646259">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="441104">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000881.au" len="218465" min="-0.699078" max="0.705406" rms="0.205914"/>
+				</waveblock>
+				<waveblock start="218465">
+					<simpleblockfile filename="e0000549.au" len="222639" min="-0.751866" max="0.732775" rms="0.218793"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+				<controlpoint t="0.335479843894" val="1.373239517212"/>
+				<controlpoint t="9.557204597076" val="0.809859156609"/>
+				<controlpoint t="9.798070542122" val="0.542253494263"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Ai Se Eu Te Pego - Video Oficial Assim voce me mata" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="31.50181406">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="4174">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003f2.au" len="4174" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.094625850340" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="31.59646259">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="441104">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000aa4.au" len="218465" min="-0.710208" max="0.711744" rms="0.197055"/>
+				</waveblock>
+				<waveblock start="218465">
+					<simpleblockfile filename="e00005df.au" len="222639" min="-0.711295" max="0.723786" rms="0.216753"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+				<controlpoint t="0.335479843894" val="1.373239517212"/>
+				<controlpoint t="9.557204597076" val="0.809859156609"/>
+				<controlpoint t="9.798070542122" val="0.542253494263"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Maple Leaf Rag Played by Scott Joplin" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="41.10206349">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6173">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000761.au" len="6173" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.139954648526" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="41.24204082">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="607187">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a5e.au" len="198280" min="-0.440117" max="0.385584" rms="0.084609"/>
+				</waveblock>
+				<waveblock start="198280">
+					<simpleblockfile filename="e0000a7f.au" len="204453" min="-0.358699" max="0.349723" rms="0.078768"/>
+				</waveblock>
+				<waveblock start="402733">
+					<simpleblockfile filename="e0000d34.au" len="204454" min="-0.336013" max="0.457448" rms="0.06391"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+				<controlpoint t="0.000005000000" val="1.500000000000"/>
+				<controlpoint t="1.460050298221" val="1.474619626999"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Maple Leaf Rag Played by Scott Joplin" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="41.10206349">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6173">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009d5.au" len="6173" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.139954648526" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="41.24204082">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="607187">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000f2.au" len="198280" min="-0.294296" max="0.28615" rms="0.067537"/>
+				</waveblock>
+				<waveblock start="198280">
+					<simpleblockfile filename="e0000842.au" len="204453" min="-0.236526" max="0.276126" rms="0.060145"/>
+				</waveblock>
+				<waveblock start="402733">
+					<simpleblockfile filename="e00009c9.au" len="204454" min="-0.437943" max="0.471376" rms="0.072999"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+				<controlpoint t="0.000005000000" val="1.500000000000"/>
+				<controlpoint t="1.460050298221" val="1.474619626999"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
